@@ -1,12 +1,12 @@
 {
-  "name": "KyleAnderson-consul",
+  "name": "brutus777-consul",
   "version": "1.0.6",
   "author": "Kyle Anderson <kyle@xkyle.com>",
   "summary": "Configures Consul by Hashicorp",
   "license": "Apache-2.0",
-  "source": "https://github.com/solarkennedy/puppet-consul",
-  "project_page": "https://github.com/solarkennedy/puppet-consul",
-  "issues_url": "https://github.com/solarkennedy/puppet-consul/issues",
+  "source": "https://github.com/brutus333/puppet-consul.git"
+  "project_page": "https://github.com/brutus333/puppet-consul.git"
+  "issues_url": "https://github.com/brutus333/puppet-consul.git/issues"
   "description": "Configures Consul by Hashicorp",
   "dependencies": [
     {
